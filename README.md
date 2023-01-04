@@ -8,3 +8,4 @@
 |   Take Two Stones    |    1.3     |   https://open.kattis.com/problems/twostones    |
 | Stuck In A Time Loop |    1.3     |    https://open.kattis.com/problems/timeloop    |
 |   Sort Two Numbers   |    1.3     | https://open.kattis.com/problems/sorttwonumbers |
+| Solving for Carrots  |    1.3     |    https://open.kattis.com/problems/carrots     |
