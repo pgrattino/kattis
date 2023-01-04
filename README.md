@@ -9,3 +9,6 @@
 | Stuck In A Time Loop |    1.3     |    https://open.kattis.com/problems/timeloop    |
 |   Sort Two Numbers   |    1.3     | https://open.kattis.com/problems/sorttwonumbers |
 | Solving for Carrots  |    1.3     |    https://open.kattis.com/problems/carrots     |
+|          R2          |    1.3     |       https://open.kattis.com/problems/r2       |
+|  Quadrant Selection  |    1.3     |    https://open.kattis.com/problems/quadrant    |
+|       Oddities       |    1.3     |    https://open.kattis.com/problems/oddities    |
